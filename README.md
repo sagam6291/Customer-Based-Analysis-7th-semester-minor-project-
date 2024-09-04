@@ -1,0 +1,1 @@
+This is a customer based analysis done on a real time data where we minimize the user retention from the company products and want the customers to be more engaged in the products. Here we perform analysis on the data of the customers and we then draw conclusions on the causes and prevention of customer dissatisfaction with the company.
